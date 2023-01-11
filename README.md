@@ -1,6 +1,6 @@
 Linux core homework
 
-[vagrant@kernel-update ~]$ uname -r
+\[vagrant@kernel-update ~]$ uname -r\
 4.18.0-277.el8.x86_64
 [vagrant@kernel-update ~]$ yum install -y https://www.elrepo.org/elrepo-release-8.el8.elrepo.noarch.rpm 
 Failed to set locale, defaulting to C.UTF-8
